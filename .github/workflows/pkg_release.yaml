@@ -1,5 +1,3 @@
-pkg_release.yaml content:
-
 name: Learn Github Packaging
 on: [push]
 jobs:
